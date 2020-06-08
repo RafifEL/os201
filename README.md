@@ -5,7 +5,7 @@
 Hello, My Name is Muhammad Rafif Elfazri! I'm an Computer Science undergraduate currently studying at Universitas Indonesia. I have interests in Data Science And Software Development. I am eager to get new experience on Computer Science Field.
 
 ## Experience
-###RISTEK Fakultas Ilmu Komputer Universitas Indonesia
+### RISTEK Fakultas Ilmu Komputer Universitas Indonesia
   - Junior Member of Data Science SIG
 ### University of Indonesia
   - Programming Foundation I Teaching Assistant
