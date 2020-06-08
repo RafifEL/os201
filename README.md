@@ -11,7 +11,7 @@ Hello, My Name is Muhammad Rafif Elfazri! I'm an Computer Science undergraduate 
   - Programming Foundation I Teaching Assistant
 
 ## Assigments
-These are some links for any of you who wants to dig your knowledge deeper in Operating System. I give this because of Final Term Test Assignment. Click [link](URLs/) and have fun with it.
+These are some links for any of you who wants to dig your knowledge deeper in Operating System. I give this because of Final Term Test Assignment. Click this [link](URLs/) to see the URLS.
 
 
 -- MRE
