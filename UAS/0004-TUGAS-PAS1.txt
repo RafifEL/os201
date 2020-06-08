@@ -1,34 +1,34 @@
-Script started on Mon Jun  8 21:36:34 2020
-]0;muhammad.rafif82@badak: ~/os201/UASmuhammad.rafif82@badak:~/os201/UAS$ PS1="$ "
+Script started on Tue Jun  9 05:44:15 2020
+]0;muhammad.rafif82@badak: ~muhammad.rafif82@badak:~$ PS1="$ "
 $ echo $GitHubUser
 RafifEL
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200608-213702-6296-UAS/> 
+200609-054440-b3d2-muhammad.rafif82/> 
 $ PS1="\$(eval \$PSTAMP)"
-200608-213711-b9df-UAS/> echo $CEKSAYA[C $CEKSAYA- $CEKSAYAe $CEKSAYA
+200609-054440-b3d2-muhammad.rafif82/> echo -e $CEKSAYA
 RafifEL ZCZCSCRIPTSTART 200602-194434 RafifEL
 RafifEL RafifEL 200602-194542-fb24-muhammad.rafif82/ 200602-194542 SEQOK SUMOK fb24360c
 RafifEL RafifEL 200602-194552-837f-muhammad.rafif82/ 200602-194552 SEQOK SUMOK 837f13da
 RafifEL RafifEL 200602-194606-f71e-muhammad.rafif82/ 200602-194606 SEQOK SUMOK f71e8881
 RafifEL RafifEL 200602-194614-4b7f-muhammad.rafif82/ 200602-194614 SEQOK SUMOK 4b7f774e
 RafifEL ZCZCSCRIPTSTOP 200602-194627 SEQOK
-200608-213721-75cc-UAS/> echo -e $CEKSAYA[K[K[KEBELA1
+200609-054440-b3d2-muhammad.rafif82/> echo -e $CEKSEBELA1
 RafifEL ZCZCSCRIPTSTART 200602-113035 ramyazhar
 RafifEL ramyazhar 200602-233035-43a3-muhammad.ramy/ 200602-233035 SEQOK SUMOK 43a3cd6a
 RafifEL ramyazhar 200602-233036-0b4c-muhammad.ramy/ 200602-233036 SEQOK SUMOK 0b4c4715
 RafifEL ramyazhar 200602-233042-ce28-muhammad.ramy/ 200602-233042 SEQOK SUMOK ce28e977
 RafifEL ramyazhar 200602-233058-18b2-muhammad.ramy/ 200602-233058 SEQOK SUMOK 18b261f3
 RafifEL ZCZCSCRIPTSTOP 200602-233103 SEQOK
-200608-213734-513a-UAS/> echo -e $CEKSEBELA1[K2
+200609-054440-b3d2-muhammad.rafif82/> echo -e $CEKSEBELA2
 RafifEL ZCZCSCRIPTSTART 200601-120808 raniapriliaa
 RafifEL raniapriliaa 200601-120808-5406-rani.aprilia81/ 200601-120808 SEQOK SUMNO 08f92888
 RafifEL raniapriliaa 200601-120810-d835-rani.aprilia81/ 200601-120810 SEQOK SUMNO bc9ca6da
 RafifEL raniapriliaa 200601-120823-708e-rani.aprilia81/ 200601-120823 SEQOK SUMNO c51af6e2
 RafifEL raniapriliaa 200601-120836-f87c-rani.aprilia81/ 200601-120836 SEQOK SUMNO 790ec3d6
 RafifEL ZCZCSCRIPTSTOP 200601-120851 SEQOK
-200608-213738-08f7-UAS/> exit
+200609-054440-b3d2-muhammad.rafif82/> exit
 exit
 
-Script done on Mon Jun  8 21:37:46 2020
+Script done on Tue Jun  9 05:44:41 2020
